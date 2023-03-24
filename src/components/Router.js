@@ -12,14 +12,17 @@ const AppRouter = ({ refreshUser, isLoggedIn, userObj }) => {
       <Routes>
         {isLoggedIn ? (
           <>
-            <Route path="/" element={<Home userObj={userObj} />}></Route>
+            <Route
+              path={process.env.PUBLIC_URL}
+              element={<Home userObj={userObj} />}
+            ></Route>
             <Route
               path="/profile"
               element={<Profile userObj={userObj} refreshUser={refreshUser} />}
             ></Route>
           </>
         ) : (
-          <Route path="/" element={<Auth />}></Route>
+          <Route path={process.env.PUBLIC_URL} element={<Auth />}></Route>
         )}
       </Routes>
     </Router>
