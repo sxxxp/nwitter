@@ -5,8 +5,8 @@ import { HashRouter } from "react-router-dom";
 import reportWebVitals from "reportWebVitals";
 import "style.css";
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-<HashRouter base="/">
+// const root = ReactDOM.createRoot(document.getElementById("root"));
+<HashRouter basename="/">
   <App />
 </HashRouter>;
 
