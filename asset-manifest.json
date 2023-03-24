@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sxxxp/nwitter%20/static/css/main.a6194e2e.css",
-    "main.js": "/sxxxp/nwitter%20/static/js/main.f116bc0e.js",
-    "static/js/787.f649083d.chunk.js": "/sxxxp/nwitter%20/static/js/787.f649083d.chunk.js",
-    "index.html": "/sxxxp/nwitter%20/index.html",
-    "main.a6194e2e.css.map": "/sxxxp/nwitter%20/static/css/main.a6194e2e.css.map",
-    "main.f116bc0e.js.map": "/sxxxp/nwitter%20/static/js/main.f116bc0e.js.map",
-    "787.f649083d.chunk.js.map": "/sxxxp/nwitter%20/static/js/787.f649083d.chunk.js.map"
+    "main.css": "/nwitter%20/static/css/main.a6194e2e.css",
+    "main.js": "/nwitter%20/static/js/main.ab69d45e.js",
+    "static/js/787.f649083d.chunk.js": "/nwitter%20/static/js/787.f649083d.chunk.js",
+    "index.html": "/nwitter%20/index.html",
+    "main.a6194e2e.css.map": "/nwitter%20/static/css/main.a6194e2e.css.map",
+    "main.ab69d45e.js.map": "/nwitter%20/static/js/main.ab69d45e.js.map",
+    "787.f649083d.chunk.js.map": "/nwitter%20/static/js/787.f649083d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6194e2e.css",
-    "static/js/main.f116bc0e.js"
+    "static/js/main.ab69d45e.js"
   ]
 }
